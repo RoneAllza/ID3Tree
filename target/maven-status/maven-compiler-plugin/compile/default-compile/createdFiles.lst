@@ -1,0 +1,7 @@
+com\mycompany\id3tree\ID3Tree.class
+com\mycompany\id3tree\Tree.class
+com\mycompany\id3tree\DecisionNode.class
+com\mycompany\id3tree\ID3.class
+com\mycompany\id3tree\CSVReader.class
+com\mycompany\id3tree\NodeType.class
+com\mycompany\id3tree\Node.class

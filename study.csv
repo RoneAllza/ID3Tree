@@ -1,0 +1,11 @@
+StudyTime,SleepHours,HasNotes,GroupStudy,Pass
+High,High,Yes,Yes,Yes
+Low,Low,No,No,No
+Medium,High,Yes,No,Yes
+High,Low,Yes,Yes,Yes
+Low,High,No,Yes,No
+Medium,Low,Yes,No,No
+Medium,High,No,Yes,Yes
+High,High,Yes,No,Yes
+Low,Low,No,No,No
+Medium,High,Yes,Yes,Yes
